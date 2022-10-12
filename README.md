@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harvestmoonguia
-- 👀 I’m interested in Guias de Harvest Moon
-- 💞️ I’m looking to collaborate on HTML, CSS
-- 📫 How to reach me amnesiac97@hotmail.com
+- 👋 Oi, Eu sou @harvestmoonguia
+- 👀 Eu estou interessado em Guias de Harvest Moon
+- 💞️ Eu estou procurando alguém que colabore comigo com HTML & CSS
+- 📫 Envie um e-mail para mim amnesiac97@hotmail.com
 
 <!---
 harvestmoonguia/harvestmoonguia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
